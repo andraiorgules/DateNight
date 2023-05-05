@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{343EAC3B-A22A-4856-9661-F88BFC9033D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.DateNight PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Items.cs">
+    <Files>
+      <File FileName="Program.cs" Line="34" Column="30" />
+      <File FileName="Game.cs" />
+      <File FileName="Street.cs" />
+      <File FileName="Apartment.cs" />
+      <File FileName="Player.cs" />
+      <File FileName="Villain.cs" />
+      <File FileName="Items.cs" Line="200" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DateNight" expanded="True">
+            <Node name="DateNight" expanded="True">
+              <Node name="Items.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

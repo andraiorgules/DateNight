@@ -1,0 +1,13 @@
+/Users/andiwolf/Projects/BeginnerTest/bin/Debug/netcoreapp3.1/BeginnerTest.deps.json
+/Users/andiwolf/Projects/BeginnerTest/bin/Debug/netcoreapp3.1/BeginnerTest.runtimeconfig.json
+/Users/andiwolf/Projects/BeginnerTest/bin/Debug/netcoreapp3.1/BeginnerTest.runtimeconfig.dev.json
+/Users/andiwolf/Projects/BeginnerTest/bin/Debug/netcoreapp3.1/BeginnerTest.dll
+/Users/andiwolf/Projects/BeginnerTest/bin/Debug/netcoreapp3.1/BeginnerTest.pdb
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.csproj.AssemblyReference.cache
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.AssemblyInfoInputs.cache
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.AssemblyInfo.cs
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.csproj.CoreCompileInputs.cache
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.dll
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.pdb
+/Users/andiwolf/Projects/BeginnerTest/obj/Debug/netcoreapp3.1/BeginnerTest.genruntimeconfig.cache

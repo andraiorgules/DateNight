@@ -1,4 +1,4 @@
 # Date Night
-C# Programming 101: Project 1
+C# Programming 101: Midterm Project 
 
 A fun text-based RPG adventure with multiple hidden endings!
